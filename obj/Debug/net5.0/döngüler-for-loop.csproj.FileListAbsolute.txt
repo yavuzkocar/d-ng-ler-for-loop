@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\döngüler-for-loop\bin\Debug\net5.0\döngüler-for-loop.exe
+D:\yazılım\pratikler\döngüler-for-loop\bin\Debug\net5.0\döngüler-for-loop.deps.json
+D:\yazılım\pratikler\döngüler-for-loop\bin\Debug\net5.0\döngüler-for-loop.runtimeconfig.json
+D:\yazılım\pratikler\döngüler-for-loop\bin\Debug\net5.0\döngüler-for-loop.runtimeconfig.dev.json
+D:\yazılım\pratikler\döngüler-for-loop\bin\Debug\net5.0\döngüler-for-loop.dll
+D:\yazılım\pratikler\döngüler-for-loop\bin\Debug\net5.0\ref\döngüler-for-loop.dll
+D:\yazılım\pratikler\döngüler-for-loop\bin\Debug\net5.0\döngüler-for-loop.pdb
+D:\yazılım\pratikler\döngüler-for-loop\obj\Debug\net5.0\döngüler-for-loop.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\döngüler-for-loop\obj\Debug\net5.0\döngüler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\döngüler-for-loop\obj\Debug\net5.0\döngüler-for-loop.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\döngüler-for-loop\obj\Debug\net5.0\döngüler-for-loop.AssemblyInfo.cs
+D:\yazılım\pratikler\döngüler-for-loop\obj\Debug\net5.0\döngüler-for-loop.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\döngüler-for-loop\obj\Debug\net5.0\döngüler-for-loop.dll
+D:\yazılım\pratikler\döngüler-for-loop\obj\Debug\net5.0\ref\döngüler-for-loop.dll
+D:\yazılım\pratikler\döngüler-for-loop\obj\Debug\net5.0\döngüler-for-loop.pdb
+D:\yazılım\pratikler\döngüler-for-loop\obj\Debug\net5.0\döngüler-for-loop.genruntimeconfig.cache
